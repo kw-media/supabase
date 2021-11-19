@@ -1,3 +1,5 @@
+version: '3'
+
 services:
   kong:
     container_name: supabase-kong
